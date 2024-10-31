@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilocastellanos1002&label=Profile%20views&color=0e75b6&style=flat" alt="camilocastellanos1002" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camilocastellanos1002" alt="camilocastellanos1002" /></a> </p>
-
-- 🌱 Iicm actualmente aprendiendo **Vue.js en Platzi**
+- 🌱 Iicim actualmente aprendiendo **Vue.js en Platzi**
 
 - ⁇ precio ⁇ Todos mis proyectos están disponibles en [https://camilocastellanos-portafolio.netlify.app/](https://camilocastellanos-portafolio.netlify.app/)
 
