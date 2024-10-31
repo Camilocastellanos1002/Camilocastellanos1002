@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, soy Juan Camilo</h1>
 <h3 align="center">Un desarrollador de frontend y backend apasionado en desarrollo</h3>
+<h3 align="center">y practicante en ingenieria de Telecomunicaciones </h3>
 <h3 align="center">Medellín</h3>
 
 
