@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, soy Juan Camilo</h1>
-<h3 align="center">Un desarrollador de frontend apasionado de Medellín</h3>
+<h3 align="center">Un desarrollador de frontend y backend apasionado en desarrollo</h3>
+<h3 align="center">Medellín</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilocastellanos1002&label=Profile%20views&color=0e75b6&style=flat" alt="camilocastellanos1002" /> </p>
 
