@@ -9,7 +9,7 @@
 
 - 🌱 Actualmente aprendiendo **React.js en Platzi**
 
-- ⁇ precio ⁇ Todos mis proyectos están disponibles en [https://camilocastellanos-portafolio.netlify.app/](https://camilocastellanos-portafolio.netlify.app/)
+- Todos mis proyectos están disponibles en [https://camilocastellanos-portafolio.netlify.app/](https://camilocastellanos-portafolio.netlify.app/)
 
 - 📫 Cómo contactarme **jccaste1002@gmail.com**
 
