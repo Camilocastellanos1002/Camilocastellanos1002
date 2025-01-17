@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilocastellanos1002&label=Profile%20views&color=0e75b6&style=flat" alt="camilocastellanos1002" /> </p>
 
-- 🌱 Iicim actualmente aprendiendo **Vue.js en Platzi**
+- 🌱 Actualmente aprendiendo **React.js en Platzi**
 
 - ⁇ precio ⁇ Todos mis proyectos están disponibles en [https://camilocastellanos-portafolio.netlify.app/](https://camilocastellanos-portafolio.netlify.app/)
 
